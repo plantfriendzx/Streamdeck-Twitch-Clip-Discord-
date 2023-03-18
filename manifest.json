@@ -1,0 +1,37 @@
+{
+    "Actions": [
+        {
+        "Icon": "assets/actionIcon",
+        "Name": "Clip To Discord",
+        "States": [
+            {
+                "Image": "assets/sendIcon"
+            }
+        ],
+        "Tooltip": "Sends all unsent clips created by you of your livestream to discord",
+        "UUID": "gay.buffalos.clipapp.send",
+        "PropertyInspectorPath": "property-inspector/inspector.html"
+    }
+],
+"SDKVersion": 2,
+"Author": "plantfriendzx",
+"CodePath": "code/code.html",
+"Description": "Sends clip list to discord bot who uploads any videos from today that haven't been sent to a channel",
+"Name": "Clips To Discord",
+"Icon": "assets/sendIcon",
+"URL": "https://github.com/plantfriendzx/clipapp",
+"Version": "0.0.1",
+"OS": [
+    {
+      "Platform": "mac",
+      "MinimumVersion": "10.11"
+    },
+    {
+      "Platform": "windows",
+      "MinimumVersion": "10"
+    }
+  ],
+  "Software": {
+    "MinimumVersion": "5.0"
+  }
+}
