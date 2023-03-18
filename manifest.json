@@ -9,7 +9,7 @@
             }
         ],
         "Tooltip": "Sends all unsent clips created by you of your livestream to discord",
-        "UUID": "gay.buffalos.clipapp.send",
+        "UUID": "gay.buffalos.clipapp.action",
         "PropertyInspectorPath": "property-inspector/inspector.html"
     }
 ],
